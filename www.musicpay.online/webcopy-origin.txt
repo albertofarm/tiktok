@@ -1,0 +1,8 @@
+Uri: https://www.musicpay.online/en/
+File Name: C:\Users\Desktop\Downloads\bragalha\test\www.musicpay.online\en\index.htm
+Content Type: text/html
+
+Uri: https://www.musicpay.online/en/js/eRzjbw6015687.js
+File Name: C:\Users\Desktop\Downloads\bragalha\test\www.musicpay.online\en\js\eRzjbw6015687.js
+Content Type: application/javascript
+
